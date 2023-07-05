@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "324948481918",
+    "firebase_url": "https://admin-522cb-default-rtdb.firebaseio.com",
+    "project_id": "admin-522cb",
+    "storage_bucket": "admin-522cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324948481918:android:178a49c2ebd34efed7c52f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsX2GFkoV1-DBuK9_Q_wPRqOYKdzNF24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324948481918-5l41vc2gs3omoqiif4oa2omgv6i73dsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "example.com.geoAttendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324948481918:android:58953ed9fe5e4771d7c52f",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsX2GFkoV1-DBuK9_Q_wPRqOYKdzNF24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324948481918-5l41vc2gs3omoqiif4oa2omgv6i73dsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "example.com.geoAttendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324948481918:android:2697c68d2691279dd7c52f",
+        "android_client_info": {
+          "package_name": "example.com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsX2GFkoV1-DBuK9_Q_wPRqOYKdzNF24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324948481918-6fknir66na2p869lpugr2hues9anq4ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324948481918-5l41vc2gs3omoqiif4oa2omgv6i73dsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "example.com.geoAttendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
